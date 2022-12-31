@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/marie-0405/go_myapp/pkg/config"
-	"github.com/marie-0405/go_myapp/pkg/models"
-	"github.com/marie-0405/go_myapp/pkg/render"
+	"github.com/marie-0405/bookings/pkg/config"
+	"github.com/marie-0405/bookings/pkg/models"
+	"github.com/marie-0405/bookings/pkg/render"
 )
 
 // Repo the repository used by the handlers

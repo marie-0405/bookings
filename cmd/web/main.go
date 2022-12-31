@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/marie-0405/go_myapp/pkg/config"
-	"github.com/marie-0405/go_myapp/pkg/handlers"
-	"github.com/marie-0405/go_myapp/pkg/render"
+	"github.com/marie-0405/bookings/pkg/config"
+	"github.com/marie-0405/bookings/pkg/handlers"
+	"github.com/marie-0405/bookings/pkg/render"
 )
 
 const portNumber = ":8080"
